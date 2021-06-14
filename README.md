@@ -41,6 +41,7 @@ TIME IN load represents the number of seconds that speller spends executing your
 - malloc: returns an addr in memory (stack)
 - C symbol for storing an addr: *
 - e.g. node *n = malloc(sizeof(node))
+
 ### NOTE for pset5 SPELLER:
 
 ##### Notice three functions that take pointer as an argument, per the *:
